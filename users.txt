@@ -1,0 +1,8 @@
+users
+
+	1. find all users - done
+	2. find a user - done 
+	3. create a user - pending
+	4. update a user
+	5. delete all users
+	6. delete a user
