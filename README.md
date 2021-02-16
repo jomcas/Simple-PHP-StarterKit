@@ -6,5 +6,5 @@ It includes:
 
 * Register/Login Page HTML CSS
 * MySQL Database Connection Script
-* Accounts Service
+* Accounts Service (Login/Register Authentication)
 * Accounts API
